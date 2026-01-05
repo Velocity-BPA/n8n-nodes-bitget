@@ -1,0 +1,43 @@
+# Source files
+nodes/
+credentials/
+index.ts
+
+# TypeScript config
+tsconfig.json
+
+# Development config
+.eslintrc.js
+.prettierrc
+.editorconfig
+
+# Tests
+test/
+coverage/
+jest.config.js
+
+# Scripts
+scripts/
+
+# IDE
+.idea/
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep README)
+docs/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Misc
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
